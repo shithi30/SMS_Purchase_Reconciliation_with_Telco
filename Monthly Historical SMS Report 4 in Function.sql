@@ -9,7 +9,7 @@ Supervised by           : Md. Nazrul Islam
 Purpose                 : Analysis of monthly SMS consumption
 Auxiliary data table(s) : campaign_analytics.sms_help_a, campaign_analytics.sms_help_b, campaign_analytics.sms_help_c
 Target data table(s)    : campaign_analytics.monthly_sms_stats_count, campaign_analytics.monthly_sms_stats_cost
-data					: https://docs.google.com/spreadsheets/d/1mqHGxP-drrgR70ICnF0PDvlc5lfZGk7qKWtNDrQNLqU/edit#gid=1536464937
+data			: https://docs.google.com/spreadsheets/d/1mqHGxP-drrgR70ICnF0PDvlc5lfZGk7qKWtNDrQNLqU/edit#gid=1536464937
 */
 
 declare 
